@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6985bfca41d23b47bf7c248919be545, type: 3}
+  m_Name: "Gi\xE1p \u0110\u1ED3ng"
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <coinValue>k__BackingField: 150
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: "Gi\xE1p \u0110\u1ED3ng"
+  <Description>k__BackingField: "B\u1EA3o v\u1EC7"
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: c5b7fe0c5d2ef7144a79a5385a79b340, type: 3}
+  <DefaultParameterList>k__BackingField:
+  - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+    value: 100
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 4ff9cd6c904b74c44938edd9231911d4, type: 3}
+  attackDamageModifier: 0
+  magicDamageModifier: 0
+  armorModifier: 10
+  magicResistanceModifier: 10
+  healthModifier: 100
+  manaModifier: 100
+  equipmentType: 0
+  prefab: {fileID: 132270697876141706, guid: bf0f85db537d8d34fbb2988676cb2311, type: 3}

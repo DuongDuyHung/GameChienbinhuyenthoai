@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03f023f0fc67fc642b59083acffcad73, type: 3}
+  m_Name: Shop
+  m_EditorClassIdentifier: 
+  shopItems:
+  - quantity: 1
+    item: {fileID: 11400000, guid: a458d7fe6e9cc2343b3fffab0e525e1a, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 45915b8d99bcdb54f819f3de16d5b1d4, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 789947d446d59ef489254c81ab310f88, type: 2}
+    itemState: []
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: b211e05d1b9f65c4b99e947802e46e3f, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: e29f4bd0e5537f84ab2ed91167bef6a2, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 7ccfc670ec174bf448246e8ae8446ec5, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 8c6fefc2d21e7b04ea8c2dc2f03671ed, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: c333b92494b92bd4ba00596c4f1de065, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: b0501519aca20a745a0fb51885e97547, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: e37a81abbb350c64897c7392be76e98c, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: b52f0d66bfa209d4e8806b3cb6505ce5, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: b7ada99604dfdfd40b4f34a2eab81344, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: fca2441bf1023814696dd473ea357a51, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 80835a879e3efe143835aef4d8fade3f, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 5a1d1bb22bac5414a849673365478cfc, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 09128c5310fac5f4d88a3f9309ba7e14, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 43075356b22c15444af8da0303268dba, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 2cf955a65d2ede546a7da0cf9513153c, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 3550ed5dacc16d64bbe95f4304770a3f, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 40ebe7728c6ba004d97a129f119d6f96, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 1
+    item: {fileID: 11400000, guid: 46814666e2dbcff4b8e70657250ea29f, type: 2}
+    itemState:
+    - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+      value: 100
+    cooldown: 0
+  - quantity: 99
+    item: {fileID: 11400000, guid: bad9f46d38341ed4eae91ae83e2d101a, type: 2}
+    itemState: []
+    cooldown: 0
+  - quantity: 99
+    item: {fileID: 11400000, guid: f27337d605de4474c8d1fb4e746b7176, type: 2}
+    itemState: []
+    cooldown: 0
+  - quantity: 89
+    item: {fileID: 11400000, guid: a0f228ff23385d24fb317b5a17d087ca, type: 2}
+    itemState: []
+    cooldown: 0
+  - quantity: 99
+    item: {fileID: 11400000, guid: cbbf079f087f10b41a4e9f35d4a903a2, type: 2}
+    itemState: []
+    cooldown: 0
+  - quantity: 99
+    item: {fileID: 11400000, guid: 5f755535f40f39345a74bf73a3098446, type: 2}
+    itemState: []
+    cooldown: 0
+  - quantity: 99
+    item: {fileID: 11400000, guid: 890e679a1baa5314f88be7b129e5010d, type: 2}
+    itemState: []
+    cooldown: 0
+  - quantity: 99
+    item: {fileID: 11400000, guid: 60e2b7082cbeedf409cd5bb6347958ef, type: 2}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  - quantity: 0
+    item: {fileID: 0}
+    itemState: []
+    cooldown: 0
+  <Size>k__BackingField: 50

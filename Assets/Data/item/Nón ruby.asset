@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6985bfca41d23b47bf7c248919be545, type: 3}
+  m_Name: "N\xF3n ruby"
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <coinValue>k__BackingField: 500
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: "N\xF3n ruby"
+  <Description>k__BackingField: "B\u1EA3o v\u1EC7"
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: d2f2e8af1fb2a3944b237588cb37f089, type: 3}
+  <DefaultParameterList>k__BackingField:
+  - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+    value: 100
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 4ff9cd6c904b74c44938edd9231911d4, type: 3}
+  attackDamageModifier: 0
+  magicDamageModifier: 0
+  armorModifier: 25
+  magicResistanceModifier: 25
+  healthModifier: 250
+  manaModifier: 250
+  equipmentType: 2
+  prefab: {fileID: 1938208878751056576, guid: 8a673af866eb0f546aaae85217885e2a, type: 3}

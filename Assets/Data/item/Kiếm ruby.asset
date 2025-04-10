@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6985bfca41d23b47bf7c248919be545, type: 3}
+  m_Name: "Ki\u1EBFm ruby"
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <coinValue>k__BackingField: 2500
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: "Ki\u1EBFm ruby"
+  <Description>k__BackingField: "G\xE2y s\xE1t th\u01B0\u01A1ng"
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 50d0e13fc65fada428fd99c9562e1c3e, type: 3}
+  <DefaultParameterList>k__BackingField:
+  - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+    value: 100
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 4ff9cd6c904b74c44938edd9231911d4, type: 3}
+  attackDamageModifier: 50
+  magicDamageModifier: 40
+  armorModifier: 0
+  magicResistanceModifier: 0
+  healthModifier: 0
+  manaModifier: 0
+  equipmentType: 1
+  prefab: {fileID: 288130225716615149, guid: eecf1a37cdb049f469d7e30c0213c143, type: 3}

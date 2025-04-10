@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HealthBar
+  - ManaBar
+  - ExperienceBar
+  - Enemy
+  - Ground
+  - NPC
+  - Playerr
+  - Portal
+  - CraftingPanel
+  - UIMap
+  - UIShop
+  - Skill1
+  - Skill2
+  - Skill3
+  - SkillPanel
+  - Combo
+  - DiedMenu
+  - UIInventoryPage
+  - Coin
+  - Stones
+  - Woods
+  - UIDurability
+  - UIEquippedItem
+  - SkillPoints
+  - NPCName
+  - NPCDialog
+  - QuestPanel
+  - QuestDialog
+  - LobbyPanel
+  - StartButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Spawner
+  - Water
+  - UI
+  - Ground
+  - Player
+  - NPC
+  - PlayerHitBox
+  - EnemyHitBox
+  - GroundDetection
+  - Pickup
+  - DecorationObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 602686523
+    locked: 0
+  - name: Ground
+    uniqueID: 1513648787
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

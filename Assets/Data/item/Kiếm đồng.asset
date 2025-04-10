@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6985bfca41d23b47bf7c248919be545, type: 3}
+  m_Name: "Ki\u1EBFm \u0111\u1ED3ng"
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <coinValue>k__BackingField: 1000
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: "Ki\u1EBFm \u0110\u1ED3ng"
+  <Description>k__BackingField: "G\xE2y s\xE1t th\u01B0\u01A1ng"
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 739f98588a1ca5b4bb6e168f0164e345, type: 3}
+  <DefaultParameterList>k__BackingField:
+  - itemParameter: {fileID: 11400000, guid: 3cb6c2341fe73fa479f3aa5662ed49e4, type: 2}
+    value: 100
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 4ff9cd6c904b74c44938edd9231911d4, type: 3}
+  attackDamageModifier: 10
+  magicDamageModifier: 5
+  armorModifier: 0
+  magicResistanceModifier: 0
+  healthModifier: 0
+  manaModifier: 0
+  equipmentType: 1
+  prefab: {fileID: 288130225716615149, guid: 28095657ab01a4949b63f36aff22e2a0, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89f7ed656b2c1da4a94dff504da1e1f5, type: 3}
+  m_Name: "Thu\u1ED1c n\u0103ng l\u01B0\u1EE3ng"
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <coinValue>k__BackingField: 50
+  <MaxStackSize>k__BackingField: 99
+  <Name>k__BackingField: "Thu\u1ED1c n\u0103ng l\u01B0\u1EE3ng"
+  <Description>k__BackingField: "H\u1ED3i n\u0103ng l\u01B0\u1EE3ng"
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 15b718220686e1c47b2b166a12cc5817, type: 3}
+  <DefaultParameterList>k__BackingField: []
+  modifiersData:
+  - statModifer: {fileID: 11400000, guid: c49d3ae849c43b246a6a366d5f7634e1, type: 2}
+    value: 20
+  <actionSFX>k__BackingField: {fileID: 8300000, guid: 71e1b26a0023716459bbed998e1baa01, type: 3}
+  prefab: {fileID: 747980019496755108, guid: e34a76a69e72fc2489b834285a085496, type: 3}
